@@ -540,9 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "bc4b0db4eca43b0ed1181c297f84516d97716cf5",
-   "url": "https://github.com/BenHerbst/idaesbasic",
-   "sha_verified_from": "agent_alternatives_denied.json/alternative_found | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/IDAES/idaes-pse",
+   "head": "5e51567b315a25a4ed0057b4a23afe02f1109482",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/BenHerbst/idaesbasic"
   }
  }
 }
